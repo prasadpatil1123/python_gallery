@@ -1,0 +1,121 @@
+$RDFILE 1
+$DATM 1/4/2012 17:19:47
+$MFMT $MIREG 1
+
+  -ISIS-  01041217192D
+
+ 25 27  0  0  0  0  0  0  0  0999 V2000
+    4.7542   -1.9875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9292   -1.9875    0.0000 N   0  0  3  0  0  0  0  0  0  0  0  0
+   -0.1958   -1.9792    0.0000 N   0  0  3  0  0  0  0  0  0  0  0  0
+    5.1667   -2.7042    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1667   -1.2750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5167   -1.2667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5125   -2.7000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2167   -1.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2167   -2.7000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0125   -1.9792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2458   -1.2625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4542   -1.9792    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.2792   -1.9792    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.9917   -2.7042    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    2.6917   -2.7000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6917   -1.2667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0417   -1.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0417   -2.7000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4250   -1.2667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6625   -1.9792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0667   -1.8542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7625   -2.7917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3542   -3.4542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4250   -2.6917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2458   -2.6917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  3  9  1  0  0  0  0
+  4  1  1  0  0  0  0
+  5  1  2  0  0  0  0
+  6  2  1  0  0  0  0
+  7  2  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 10  3  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14  4  1  0  0  0  0
+ 15  7  1  0  0  0  0
+ 16  6  1  0  0  0  0
+ 17 12  1  0  0  0  0
+ 18 12  1  0  0  0  0
+ 19 10  2  0  0  0  0
+ 20 25  1  0  0  0  0
+ 21 14  1  0  0  0  0
+ 22 14  1  0  0  0  0
+ 23 14  1  0  0  0  0
+ 24 10  1  0  0  0  0
+ 25 24  2  0  0  0  0
+ 16 13  1  0  0  0  0
+  8  3  1  0  0  0  0
+ 11 20  2  0  0  0  0
+M  END
+
+$DTYPE MOL:CDBREGNO
+$DATUM 1
+$DTYPE MOL:ID
+$DATUM 1
+$DTYPE MOL:RESULT(1):RECEPTOR
+$DATUM GPR119
+$DTYPE MOL:RESULT(1):ASSAY
+$DATUM cAMP assay
+$DTYPE MOL:RESULT(1):AFFINITY
+$DATUM 3600
+$DTYPE MOL:RESULT(1):FUNCTION
+$DATUM Agonist
+$DTYPE MOL:RESULT(1):ORGANISM
+$DATUM Human
+$DTYPE MOL:RESULT(1):MEASURE
+$DATUM EC50
+$DTYPE MOL:RESULT(1):UNIT
+$DATUM nM
+$DTYPE MOL:RESULT(2):RECEPTOR
+$DATUM GPR119
+$DTYPE MOL:RESULT(2):ASSAY
+$DATUM cAMP assay
+$DTYPE MOL:RESULT(2):COMMENTS
+$DATUM % activation at 10 uM
+$DTYPE MOL:RESULT(2):AFFINITY
+$DATUM < 10%
+$DTYPE MOL:RESULT(2):FUNCTION
+$DATUM Agonist
+$DTYPE MOL:RESULT(2):ORGANISM
+$DATUM Mouse
+$DTYPE MOL:RESULT(2):MEASURE
+$DATUM Activation
+$DTYPE MOL:RESULT(2):UNIT
+$DATUM nM
+$DTYPE MOL:MODE_ACTION
+$DATUM GPR119 agonist
+$DTYPE MOL:SOURCE
+$DATUM Journal
+$DTYPE MOL:YEAR
+$DATUM 2011
+$DTYPE MOL:THERAPEUTIC_DATA
+$DATUM type II diabetes, hyperglycemia,
+
+hyperlipidemia, obesity, hypertension, a
+
+rteriosclerosis
+
+
+$DTYPE MOL:JOURNAL_AUTHOR
+$DATUM Szewczyk, J.
+$DTYPE MOL:JOURNAL_NAME
+$DATUM Bioorg Med Chem Lett
+$DTYPE MOL:JOURNAL_VOLUME
+$DATUM 21
+$DTYPE MOL:JOURNAL_ISSUE
+$DATUM 9
+$DTYPE MOL:JOURNAL_PAGE
+$DATUM 2665–2669
+$DTYPE MOL:PUBMEDID
+$DATUM 21273063

@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "id": "Prasad",
+      "name": "Prasad Patil",
+      "password": "test",
+      "email": "p@mail.in",
+      "phone": "456",
+      "country": "india",
+      "address": "Karve nagar, Pune",
+      "gender": "male"
+    },
+    {
+      "id": "Rohan",
+      "name": "Rohan P.",
+      "password": "test",
+      "email": "r@mail.in",
+      "phone": "789",
+      "country": "india",
+      "address": "Chikhali",
+      "gender": "male"
+    }
+  ]
+}
